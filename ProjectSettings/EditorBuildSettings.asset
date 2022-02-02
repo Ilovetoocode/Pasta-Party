@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/!Scenes/Test area.unity
     guid: 4bafeb738bc4e1443a9cf3f7d65aec98
+  - enabled: 1
+    path: Assets/!Scenes/Dragon.unity
+    guid: 9312646ac021daf459131c83b1ecaaef
+  - enabled: 1
+    path: Assets/!Scenes/Garden.unity
+    guid: 5106214f5258d744dada50e348da36b9
+  - enabled: 1
+    path: Assets/!Scenes/Forest.unity
+    guid: ea767af6344be3044884f5bfd256d282
   m_configObjects: {}
